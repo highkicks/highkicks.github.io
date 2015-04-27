@@ -1,0 +1,17 @@
+color hex
+
+schema1
+türkis #28abe3
+grün #1fda9a
+foam #f7eac8
+gelb #e8b71a
+gelb hover #fec503
+pink #db3340
+
+schema2
+türkis #02D0AC
+blau #1BA3E1
+braun #6D2908
+dunkelrot #6E0000
+rot #BB0F00
+
