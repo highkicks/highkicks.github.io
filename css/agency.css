@@ -13,6 +13,15 @@ body {
     color: #222;
 }
 
+.text-muted-light {
+    color: #fff;
+}
+
+.kontakt-text {
+    color: #222;
+	background-color: #fff
+}
+
 .text-primary {
     color: #ba1200;
 }
@@ -653,7 +662,7 @@ aside.clients img {
 
 section#contact {
     background-color: #ba1200;
-    background-image: url(../img/gallery/DSC_0015_light.jpg);
+    background-image: url(../img/gallery/DSC_0015_blu.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
