@@ -92,7 +92,7 @@ fff987
 3f7cff
 e3e7d3
 
-rotblau
+rotblau ----HIGHKICKS_-----
 
 ff2c00 hellrot
 ba1200 dunkelrote
